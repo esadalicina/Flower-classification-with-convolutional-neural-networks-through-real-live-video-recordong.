@@ -21,5 +21,5 @@ If you're new to the topic and want to understand the project in detail, start b
 
 - Begin by reviewing the reports or video presentations, depending on your familiarity with the subject: If you prefer reading, go through either the full final report or the summaries (in English or German). If you prefer watching, the video presentations provide a visual explanation.
 - Exploring the Code: Once you have an understanding of the project, you can dive into the code.
-- The project contains two Python files: The first file is for building the CNN model. The second file is for running the video capture and performing the classification in real-time.
+- The project contains two Python files: The first file "Flower_Classification_CNN.py" is for building the CNN model. The second file is for running the video capture and performing the classification in real-time.
 - Running the Classification: When running the second Python file, press the ‘s’ key on your keyboard to start the flower classification. To stop the classification, press the ‘f’ key. If you want to exit the program completely, press the ‘q’ key. In some cases, you may need to press the ‘q’ key more than once to close the program.
