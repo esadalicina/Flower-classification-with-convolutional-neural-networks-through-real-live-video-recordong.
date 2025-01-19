@@ -1,30 +1,25 @@
-CONTENT:
+# Flower classification with convolutional neural networks through live video recordong.
 
-1 Final report in English (bsp02_licina_esada_scientific_and_technical_report), about 7000-8000 words
-1 Summary of the final report in English (bsp02_licina_esada_primary_language_summary), about 1000-1200 words
-1 Summary of the final report in German (bsp02_licina_esada_secondary_language_summary), about 500-600 words
-1 Video presentation in English (bsp02-licina-esada-primary-language-video) 10:38 
-1 Video presentation in German (bsp02-licina-esada-secondary-language-video) 06:21
-1 Python program with two code files
+This repository contains my second-semester project from my Bachelor's in Computer Science. 
+This project focuses on flower classification using convolutional neural networks (CNNs) through live video recordong. 
+It includes both scientific explanations and technical details of the project’s implementation.
 
-PROJECT:
+## Reports/Papers from the repository for better understanding:
 
-This project is about flower classification with convolutional neural networks.
-Where I descripe the scientific and technical part of the project.
+- bsp02_licina_esada_primary_language_summary.pdf
+- bsp02_licina_esada_scientific_and_technical_report.pdf
+- bsp02_licina_esada_secondary_language_summary.pdf
 
-USE:
+## Presentation videos from the repository for better understanding:
 
-If you are new in this topic and you want to know details about 
-the project then you need to read the final report.
+- Video Presentation (English): A video presentation in English, titled bsp02-licina-esada-primary-language-video.
+- Video Presentation (German): A video presentation in German, titled bsp02-licina-esada-secondary-language-video.
 
-At first read one of the reports or look at the videos, it depends how many you know 
-about this topic.
 
-Then you can start to look over the code and run it.
-There are two files, one to build the model and the other to make the videocapture.
+## USAGE INSTRUCTIONS:
+If you're new to the topic and want to understand the project in detail, start by reading the final report.
 
-When you run the second file, you can click on the 's' button on the keyboard to start the classification.
-To stop the classification you can click on the 'f' button.
-
-When you want to stop the whole program, you can click on the 'q' button
-and sometime you need to click more then one time on the 'q' to stop it. 
+- Begin by reviewing the reports or video presentations, depending on your familiarity with the subject: If you prefer reading, go through either the full final report or the summaries (in English or German). If you prefer watching, the video presentations provide a visual explanation.
+- Exploring the Code: Once you have an understanding of the project, you can dive into the code.
+- The project contains two Python files: The first file is for building the CNN model. The second file is for running the video capture and performing the classification in real-time.
+- Running the Classification: When running the second Python file, press the ‘s’ key on your keyboard to start the flower classification. To stop the classification, press the ‘f’ key. If you want to exit the program completely, press the ‘q’ key. In some cases, you may need to press the ‘q’ key more than once to close the program.
